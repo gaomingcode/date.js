@@ -1,0 +1,20 @@
+{
+    "name": "gaomingcode/gauge.js",
+    "description": "DateJS is the most full-featured, internationalized, open-source JavaScript Date Library.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "date", "javascript", "js", "mit"
+    ],
+    "homepage": "https://github.com/abritinthebay/datejs",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Gregory Wild-Smith",
+            "email": "gregory@wild-smith.com"
+        }
+    ]
+}

@@ -1,4 +1,19 @@
 # DateJS: Evolved
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/date.js.svg)](https://github.com/gaomingcode/date.js)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/date.js)](https://github.com/gaomingcode/date.js)
+[![Github License](https://img.shields.io/github/license/gaomingcode/date.js)](https://github.com/gaomingcode/date.js)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/hotkeys
+```
+
+## ReadMe from Origin
+
 The JavaScript Date Library  
 [![Build Status](https://travis-ci.org/abritinthebay/datejs.svg?branch=master)](https://travis-ci.org/abritinthebay/datejs)
 [![NPM version](https://badge.fury.io/js/datejs.svg)](http://badge.fury.io/js/datejs)
