@@ -9,7 +9,7 @@
 ### Composer
 
 ```
-composer require gaomingcode/hotkeys
+composer require gaomingcode/date.js
 ```
 
 ## ReadMe from Origin

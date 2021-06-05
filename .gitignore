@@ -1,2 +1,4 @@
 node_modules/*
 .grunt/*
+.DS_Store
+js/.DS_Store
